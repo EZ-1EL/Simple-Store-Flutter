@@ -2,9 +2,12 @@
 
 A Flutter demo app that showcases a simple storefront using the Fake Store API. It fetches products, displays them in a grid, and lets you navigate to an update screen to edit a product's details.
 
-![Screenshot](https://github.com/EZ-1EL/Simple-Store-Flutter/blob/main/product1.png)
-![Screenshot](https://github.com/EZ-1EL/Simple-Store-Flutter/blob/main/product2.png)
-![Screenshot](https://github.com/EZ-1EL/Simple-Store-Flutter/blob/main/Update%20.png)
+<p align="center">
+<img src="https://github.com/EZ-1EL/Simple-Store-Flutter/blob/main/product1.png" width="400">
+<img src="https://github.com/EZ-1EL/Simple-Store-Flutter/blob/main/product2.png" width="400">
+<img src="https://github.com/EZ-1EL/Simple-Store-Flutter/blob/main/Update%20.png" width="400">
+</p>
+
 
 
 ### Features
